@@ -4,7 +4,9 @@ Helping me with the courses:
 * FULL PROJECT with Vue.js + Vuetify + Firebase! (https://www.youtube.com/watch?v=FXY1UyQfSFw&list=PL55RiY5tL51qxUbODJG9cgrsVd7ZHbPrt)
 
 I want to build something to solve the problem with sales in a more dinamyc way for a person´s hobbie, handcrafted earrings. 
-This repository is published on https://earrings-shop.netlify.app/
+
+## This repository is published on
+https://earrings-shop.netlify.app/
 
 ## Project setup
 ```
