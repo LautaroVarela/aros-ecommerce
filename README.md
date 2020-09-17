@@ -1,7 +1,7 @@
 # zoe-commerce
-## This repository is published on
+## This repository is published on [Netlify]
 
-https://earrings-shop.netlify.app/
+(https://earrings-shop.netlify.app/)
 
 Helping me with the courses: 
 * Vuejs Full-Stack Course (AWS / Firebase) Build E-Commerce Website on youtube (https://www.youtube.com/watch?v=UrUuvNyK-Os&list=PLB4AdipoHpxYPjGo0n2m6tmCLud_iSEbv)
